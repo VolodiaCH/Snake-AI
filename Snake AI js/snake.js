@@ -336,7 +336,7 @@ class NeuralNetwork {
 
     getDirecion = sight => {
         // 0 = empty, 1 = snake head, 2 = snake segments, 3 = food, 4 = wall
-        // more at line 5
+        // more at line 15
 
         // array of objects that in snake sight
         let sensors = [];
